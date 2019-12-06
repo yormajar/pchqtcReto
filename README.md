@@ -2,7 +2,7 @@
 ## Tutti-Frutti
 ### Pasos a seguir para resolver el Reto
 
-####Básico
+#### Básico
 
 - Haz un grupo para desarrollar este reto (mínimo 2 personas por grupo)
 - Descargar del repositorio dado una página web asignándose tareas cada uno
