@@ -24,15 +24,16 @@
 ### Basico
 - Tener mínimo 2 colaboradores
 - Cada colaborador deberá trabajar en una rama
--       El proyecto debe tener un **README.md** con los nombres de los colaboradores y el nombre del proyecto
--       El repositorio deberá contar con commits y pull requests a la rama principal (master)
+- El proyecto debe tener un **README.md** con los nombres de los colaboradores y el nombre del proyecto
+- El repositorio deberá contar con commits y pull requests a la rama principal (master)
 
 ### Plus adicional:
 
--       Subirlo a Github pages
--       Lograr tener 5 estrellas de tu repo
+- Subirlo a Github pages
+- Lograr tener 5 estrellas de tu repo
 
 ## Reto cumplido
+
 Para que el reto está cumplido al 100% deberá tener cubierto los requisitos básicos expuestos
 
 - Verificar si existe el grupo de 2 personas o más 
