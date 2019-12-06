@@ -2,7 +2,7 @@
 ## Tutti-Frutti
 ### Pasos a seguir para resolver el Reto
 
-####Básico
+#### Básico
 
 - Haz un grupo para desarrollar este reto (mínimo 2 personas por grupo)
 - Descargar del repositorio dado una página web asignándose tareas cada uno
@@ -13,7 +13,7 @@
 - Junten sus cambios a la rama principal con un pull request
 - Presenten la URL a la persona encargada de revisar el reto
 
-####Plus
+#### Plus
 
 - Usen github pages para ver el resultado de su página web.
 - Busquen otras personas (de otros grupos) para que puedan darle star a su repositorio en github.
